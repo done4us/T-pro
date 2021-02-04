@@ -120,7 +120,6 @@ echo "-->> Changing termux font" |lolcat -t
 sleep 2
 echo "-->> Done" |lolcat -t
 sleep 2
-break
 done
 
 clear
