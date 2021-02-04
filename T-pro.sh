@@ -122,6 +122,9 @@ clear
 # Spinner
 bash ashi.sh
 
+clear
+
+
 # Change fonts
 
 # Take action if dir!
