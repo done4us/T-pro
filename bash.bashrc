@@ -31,5 +31,5 @@ cowsay -f kiss @thedumpedone |lolcat
 
 echo " "  
 echo "  
-           < ━━━━━━━━━━━━━ [★] $myip [★] ━━━━━━━━━━━━━ > " |lolcat 
+           < ━━━━━━━━━━━━━ [★] O N L I N E [★] ━━━━━━━━━━━━━ > " |lolcat 
 echo "     "
