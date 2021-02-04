@@ -63,6 +63,10 @@ apt-get install nano -yq --silent
 
 # T-pro banner
 
+# Spinner
+bash ashi.sh
+
+
 clear
 echo
 # hide cursor
@@ -119,8 +123,14 @@ cp bash.bashrc/data/data/com.termux/files/usr/etc
 
 clear
 
-# Spinner
-bash ashi.sh
+# Change directory to Home
+$HOME
+
+# Change directory to T-pro
+cd T-pro
+
+# acessing user.sh to validate user
+bash user.sh
 
 clear
 
@@ -143,6 +153,9 @@ echo "-->> Changing termux font" |lolcat -t
 sleep 2
 echo "-->> Done" |lolcat -t
 sleep 2
+
+# Spinner
+bash ashi.sh
 
 clear
 figlet -f slant "DUMPED ONE" |lolcat
