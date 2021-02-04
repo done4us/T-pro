@@ -106,7 +106,7 @@ clear
 
 # Take action if dir!
 cd $HOME
-cd T-pro/cursive.ttf/
+cd T-pro/
 if [ -f ~/.termux/font.ttf ]
 then
 echo
