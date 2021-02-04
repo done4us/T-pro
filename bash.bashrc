@@ -34,22 +34,3 @@ echo "
            < ━━━━━━━━━━━━━ [★] O N L I N E [★] ━━━━━━━━━━━━━ > " |lolcat 
 echo "     "
 
-#COMMANDS CREATED INSIDE /ETC/BASH.BASHRC FILE
-# USING ANSI COLORS
-RED="\e[31m"
-ORANGE="\e[33m"
-BLUE="\e[94m"
-GREEN="\e[92m"
-STOP="\e[0m"
-
-
-# LOGIN SCREEN MESSAGE
-screenfetch
-printf "${GREEN}"
-printf "============================================\n"
-printf "${ORANGE}"
-figlet  -f standard "T-pro"
-printf "${BLUE}"
-printf "${GREEN}"
-printf "======== Coded by Dumped One ==============\n"
-printf "${STOP}"
