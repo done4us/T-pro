@@ -120,7 +120,6 @@ echo "-->> Changing termux font" |lolcat -t
 sleep 2
 echo "-->> Done" |lolcat -t
 sleep 2
-done
 
 clear
 figlet -f slant "DUMPED ONE" |lolcat
