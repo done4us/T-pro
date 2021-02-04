@@ -119,6 +119,9 @@ cp bash.bashrc/data/data/com.termux/files/usr/etc
 
 clear
 
+# Spinner
+bash ashi.sh
+
 # Change fonts
 
 # Take action if dir!
