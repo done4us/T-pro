@@ -23,7 +23,6 @@ apt-get install sl
 sl
 
 echo
-clear
 
 # Updating the packages 
 apt-get update -y
@@ -100,6 +99,24 @@ sleep 2
 echo "[*] Done " |lolcat
 echo
 sleep 2
+clear
+
+# Change directory to etc
+cd/data/data/com.termux/files/usr/etc
+
+# Remove old bash.bashrc
+rm bash.bashrc
+rm -rf motd
+
+# Change dir to ~
+cd $HOME
+
+# change dir to T-pro
+cd T-pro
+
+# Copy new bash.bashrc to usr/etc
+cp bash.bashrc/data/data/com.termux/files/usr/etc
+
 clear
 
 # Change fonts
