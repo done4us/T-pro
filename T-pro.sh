@@ -58,6 +58,9 @@ pkg install ncurses-utils -y
 # Install cowsay in termux if not installed 
 apt-get install cowsay -y
 
+# Installing cmatrix
+pkg install cmatrix
+
 # Installing nano editor
 apt-get install nano -yq --silent
 
@@ -131,6 +134,22 @@ cd T-pro
 
 # acessing user.sh to validate user
 bash user.sh
+
+# processing hacker look by using cmatrix
+ cmatrix
+
+
+
+
+
+
+
+
+
+
+
+Ctrl + z
+
 
 clear
 
