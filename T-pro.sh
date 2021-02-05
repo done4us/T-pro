@@ -61,6 +61,9 @@ apt-get install cowsay -y
 # Installing cmatrix
 pkg install cmatrix
 
+# Installing screenfetch
+pkg install screenfetch
+
 # Installing nano editor
 apt-get install nano -yq --silent
 
