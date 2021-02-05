@@ -1,5 +1,5 @@
 # T-pro
-This tool is made for cursive font lover.
+This tool can customize your font to "cursive font" ,this can also customize your font color,this can show your android versoin of your mobile, kernal, ip address.
 
 Following steps to install this tool:-
 
