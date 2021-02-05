@@ -68,7 +68,6 @@ pkg install screenfetch
 apt-get install nano -yq --silent
 
 # T-pro banner
-
 # Spinner
 bash ashi.sh
 
@@ -144,14 +143,7 @@ bash user.sh
 
 
 
-
-
-
-
-
-
-
-Ctrl + z
+Ctrl+z
 
 
 clear
