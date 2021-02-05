@@ -34,3 +34,4 @@ echo "
            < ━━━━━━━━━━━━━ [★] O N L I N E [★] ━━━━━━━━━━━━━ > " |lolcat 
 echo "     "
 
+screenfetch
