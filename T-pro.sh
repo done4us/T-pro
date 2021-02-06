@@ -131,7 +131,7 @@ cp bash.bashrc /data/data/com.termux/files/usr/etc
 clear
 
 # Change directory to Home
-$HOME
+cd $HOME
 
 # Change directory to T-pro
 cd T-pro
@@ -169,6 +169,10 @@ bash ashi.sh
 clear
 figlet -f slant "DUMPED ONE" |lolcat
 
+
+echo
+echo -e "\e[32m[*]\e[34m Open a new session \e[m"
+echo
 
 # Done setting up Termux Terminal as a Real Hacker
 
