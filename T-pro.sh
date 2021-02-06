@@ -138,12 +138,8 @@ cd T-pro
 bash user.sh
 
 # processing hacker look by using cmatrix
- cmatrix
-
-
-
-
-Ctrl+z
+cmatrix
+Ctrl+c
 
 
 clear
