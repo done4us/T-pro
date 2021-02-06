@@ -111,7 +111,7 @@ sleep 2
 clear
 
 # Change directory to etc
-cd/data/data/com.termux/files/usr/etc
+cd /data/data/com.termux/files/usr/etc
 
 # Remove old bash.bashrc
 rm -rf bash.bashrc
@@ -171,7 +171,7 @@ figlet -f slant "DUMPED ONE" |lolcat
 
 
 echo
-echo -e "\e[32m[*]\e[34m Open a new session \e[m"
+echo -e "\e[32m Open a new session \e[m"
 echo
 
 # Done setting up Termux Terminal as a Real Hacker
