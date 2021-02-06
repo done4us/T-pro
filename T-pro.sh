@@ -137,9 +137,6 @@ cd T-pro
 # acessing user.sh to validate user
 bash user.sh
 
-# processing hacker look by using cmatrix
-cmatrix
-Ctrl+c
 
 
 clear
