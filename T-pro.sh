@@ -114,7 +114,9 @@ clear
 cd/data/data/com.termux/files/usr/etc
 
 # Remove old bash.bashrc
-rm bash.bashrc
+rm -rf bash.bashrc
+
+# Remove motd
 rm -rf motd
 
 # Change dir to ~
@@ -124,7 +126,7 @@ cd $HOME
 cd T-pro
 
 # Copy new bash.bashrc to usr/etc
-cp bash.bashrc/data/data/com.termux/files/usr/etc
+cp bash.bashrc /data/data/com.termux/files/usr/etc
 
 clear
 
