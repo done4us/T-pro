@@ -25,11 +25,6 @@ fi
 
 clear
 echo " "
-echo "   "
-
-cowsay -f kiss @thedumpedone |lolcat
-
-echo " "  
 echo "  
            < ━━━━━━━━━━━━━ [★] O N L I N E [★] ━━━━━━━━━━━━━ > " |lolcat 
 echo "     "
