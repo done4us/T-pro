@@ -24,6 +24,11 @@ if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
 fi
 
 clear
+
+alias c="clear"
+alias e="exit"
+alias u="pkg upgrade -y && pkg update -y"
+
 echo " "
 echo "  
            < ━━━━━━━━━━━━━ [★] O N L I N E [★] ━━━━━━━━━━━━━ > " |lolcat 
