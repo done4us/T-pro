@@ -87,7 +87,7 @@ echo "
      )_(       |/       |/   \__/(_______) V 1.0" |lolcat
 echo
 echo " ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷" |lolcat -t
-echo "      Script Written By Dumped One            " |lolcat -t
+echo "      Script Written Rohit Raj                " |lolcat -t
 echo " ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷" |lolcat -t
 
 sleep 3
