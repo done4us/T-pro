@@ -47,7 +47,7 @@ gem install ruby
 pip install lolcat
 
 # Installing lolcat with gems
-gem install lolcat
+gem install lolcat -y
 
 # Unpacking toilet
 apt-get install toilet -y
