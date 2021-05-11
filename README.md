@@ -4,11 +4,11 @@ This tool can customize your font to "cursive font" ,this can also customize you
 Following steps to install this tool:-
 
 1. pkg install git 
-2. git clone https://github.com/dumpedone5665/T-pro
+2. git clone https://github.com/done4us/T-pro
 3. cd T-pro
 4. chmod +x *
 5. bash T-pro.sh
 
 
 
-Now you can enjoy this tool.....
+Now you can enjoy this tool..... 
