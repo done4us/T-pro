@@ -167,7 +167,7 @@ sleep 2
 bash ashi.sh
 
 clear
-figlet -f slant "DUMPED ONE" |lolcat
+figlet -f slant "DONE4US" |lolcat
 
 
 echo
