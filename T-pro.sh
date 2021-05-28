@@ -2,16 +2,13 @@
 
 #############################################
 #           Project:- T-pro                 #
-#           Author:- Dumped One             #
+#           Author:- Done4us                #
 #############################################
 
 # Installing the following packages to install T-pro
 echo
 echo -e "\e[32m[*]\e[34m Installing T-pro \e[m"
 echo
-# stotage permission
-termux-setup-storage
-
 echo
 
 echo
@@ -86,11 +83,11 @@ echo "
      | |       | )      | ) \ \__| (___) |
      )_(       |/       |/   \__/(_______) V 1.0" |lolcat
 echo
-echo " ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷" |lolcat -t
-echo "      Script Written Rohit Raj                " |lolcat -t
-echo " ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷" |lolcat -t
+echo " ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷" |lolcat 
+echo "      Script Written Rohit Raj                " |lolcat 
+echo " ÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷" |lolcat 
 
-sleep 3
+sleep 6
 echo
 echo
 echo "[*] Installing T-pro " |lolcat
@@ -158,9 +155,9 @@ fi
 
 clear
 cat "cursive.ttf" > ~/.termux/font.ttf
-echo "-->> Changing termux font" |lolcat -t
+echo "-->> Changing termux font" |lolcat 
 sleep 2
-echo "-->> Done" |lolcat -t
+echo "-->> Done" |lolcat 
 sleep 2
 
 # Spinner
@@ -173,8 +170,8 @@ figlet -f slant "DONE4US" |lolcat
 echo
 echo -e "\e[32m Open a new session \e[m"
 echo
-
-# Done setting up Termux Terminal as a Real Hacker
+echo -e "\e[34m
+# Done setting up Termux Terminal as a Real Hacker \e[m"
 
 # setting up making a change a to a termux 
 # Dir checker
@@ -202,7 +199,8 @@ fi
 cd $HOME
 echo "bell-character=ignore" >> /data/data/com.termux/files/home/.termux/termux.properties && termux-reload-settings
 echo
-
+echo -e "\e[36m Subscribe our Youtube Channel :-
+    Done4us \e[m"
 #########################################################################
 #                        T-pro                                        #
 #  simply changing this font will not make you developer of this tool #
