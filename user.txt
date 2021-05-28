@@ -2,6 +2,6 @@
 # display ipv4 address of user
 myip=$(ifconfig | grep 'inet' | grep -v '::1' | grep -v '127.0.0.1' | awk NR==1'{print $2}')
 echo " 
-                 < ━━━━━━━━━━━━━━━ [★] $myip [★] ━━━━━━━━━━━━━ > " |lolcat
+   < ━━━━━━━━━━━━━━━ [★] $myip [★] ━━━━━━━━━━━━━ > " |lolcat
 echo 
 tput cnorm
