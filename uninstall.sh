@@ -42,3 +42,4 @@ clear
 figlet done4us | lolcat
 echo Now Your Termux is back to Original
 echo "Open New Session" | lolcat
+
