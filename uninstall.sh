@@ -20,6 +20,25 @@ Install a package: pkg install <package>
 Upgrade packages:  pkg upgrade
 Learn more:        pkg help" > motd
 cd
+clear
+# Change fonts
+
+# Take action if dir!
+cd $HOME
+cd T-pro/
+if [ -f ~/.termux/font.ttf ]
+then
+echo
+else
+touch ~/.termux/font.ttf
+fi
+
+clear
+cat "DejaVuSerifCondensed-Italic.ttf" > ~/.termux/font.ttf
+clear
+
 cd /$HOME
+clear
 figlet done4us | lolcat
 echo Now Your Termux is back to Original
+echo "Open New Session" | lolcat
