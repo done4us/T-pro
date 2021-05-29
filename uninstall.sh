@@ -40,6 +40,9 @@ clear
 cd /$HOME
 clear
 figlet done4us | lolcat
+
+echo
 echo Now Your Termux is back to Original
+echo
 echo "Open New Session" | lolcat
 
