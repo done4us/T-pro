@@ -19,7 +19,7 @@ apt-get install sl
 # Checking termux 
 sl | lolcat
 
-echo
+clear
 
 # Updating the packages 
 apt-get update -y
