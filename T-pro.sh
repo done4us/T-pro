@@ -138,11 +138,11 @@ bash user.sh
 
 
 
-clear
+
 
 
 # Change fonts
-
+clear
 # Take action if dir!
 cd $HOME
 cd T-pro/
