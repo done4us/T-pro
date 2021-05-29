@@ -48,6 +48,8 @@ cat "DejaVuSerifCondensed-Italic.ttf" > ~/.termux/font.ttf
 clear
 
 
+cd
+cd /$HOME
 figlet done4us | lolcat
 
 echo
