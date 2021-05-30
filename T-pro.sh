@@ -17,7 +17,7 @@ apt-get install sl
 
 
 # Checking termux 
-sl | lolcat
+sl
 
 clear
 
